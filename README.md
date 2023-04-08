@@ -30,6 +30,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=arthurlunkes&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact">
 </div>
 
   ##
