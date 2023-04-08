@@ -25,11 +25,15 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   
 </div>
+
+  ##
   
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=arthurlunkes&show_icons=true&theme=transparent">
 </div>
- 
+
+  ##
+  
 <div> 
   <a href="https://instagram.com/arthur_lunkes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthur.lunkes2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
