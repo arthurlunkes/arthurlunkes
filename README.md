@@ -7,7 +7,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <img align="center" alt="Salesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
 
 <p>Aprendendo sobre as tecnologias abaixo:</p>
-
 <div style="display: inline_block"><br>
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,9 +27,9 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
   ##
   
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurlunkes&show_icons=true&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact">
+<div style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlunkes&show_icons=true&theme=algolia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact&theme=algolia&exclude_repo=AtividadeMineracaodeDados">
 </div>
 
   ##
