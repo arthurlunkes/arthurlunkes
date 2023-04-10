@@ -24,7 +24,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   
 </div>
-
+<p>É eu sei que parece ser muita coisa para uma pessoa só, mas com organização, estudar tudo isso se torna possível!</p>
   ##
   
 <div style="display: inline_block">
