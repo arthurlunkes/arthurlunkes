@@ -3,10 +3,10 @@
 <!--Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)-->
 
-<p>Trabalhei como administrador Salesforce por quase 3 anos. Nesse tempo também criei algumas soluções em desenvolvimento com apex e LWC, como por exemplo um componente em LWC que integrava com o SAP para buscar nº de nota fiscal.</p>
+<p>Trabalhei como administrador Salesforce por 2 anos. Nesse tempo também criei algumas soluções em desenvolvimento com apex e LWC, como por exemplo um componente em LWC que integrava com o SAP para buscar nº de nota fiscal.</p>
 <img align="center" alt="Salesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
 
-<p>Aprendendo sobre as tecnologias abaixo:</p>
+<p>No momento estou estudando as tecnologias abaixo, para futuramente me tornar um arquiteto de software:</p>
 <div style="display: inline_block"><br>
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
