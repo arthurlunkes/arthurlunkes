@@ -6,6 +6,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <p>Trabalhei como administrador Salesforce por 2 anos. Nesse tempo também criei algumas soluções em desenvolvimento com apex e LWC, como por exemplo um componente em LWC que integrava com o SAP para buscar nº de nota fiscal.</p>
 <img align="center" alt="Salesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
 
+<!--
+
 <p>No momento estou estudando as tecnologias abaixo, para futuramente me tornar um arquiteto de software:</p>
 <div style="display: inline_block"><br>
 
@@ -24,8 +26,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   
 </div><br>
-
-<p>É eu sei que parece ser muita coisa para uma pessoa só, mas com organização, estudar tudo isso se torna possível!</p>
+-->
+<!--<p>É eu sei que parece ser muita coisa para uma pessoa só, mas com organização, estudar tudo isso se torna possível!</p>-->
 
   ##
   
