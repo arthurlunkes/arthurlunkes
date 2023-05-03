@@ -2,7 +2,7 @@
 
   <br>
 
-  Trabalhei como administrador Salesforce por 2 anos. Nesse tempo também criei algumas soluções em desenvolvimento com apex e LWC, como por exemplo um componente em LWC que integrava com o SAP para buscar nº de nota fiscal.
+  Durante dois anos, atuei como administrador Salesforce e também desenvolvi soluções personalizadas utilizando Apex e LWC. Em particular, destaco a criação de um componente em LWC que se integrou com o sistema SAP através de um consumidor de API que desenvolvi em Apex, permitindo a busca de números de nota fiscal. Essa solução aumentou significativamente a eficiência da equipe de devolução e simplificou o processo de solicitação de notas de garantia.
   
   <br>
   
