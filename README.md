@@ -34,6 +34,7 @@
 <div style="display: inline_block">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
@@ -52,7 +53,7 @@
 <div align="center">
   <h3>Estatísticas</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlunkes&show_icons=true&theme=algolia&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact&theme=algolia&exclude_repo=AtividadeMineracaodeDados,BotEntraNoInstagram,Desafios_Selenium&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact&theme=algolia&exclude_repo=AtividadeMineracaodeDados,BotEntraNoInstagram,Desafios_Selenium,Projeto_Fullstack_Cadastro_Pessoas&hide_border=true">
 </div>
 <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurlunkes&theme=algolia&hide_border=true"/>
