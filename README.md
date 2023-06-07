@@ -13,7 +13,7 @@
 ##
 
 <div align="center">
-  <h3>Tenho conhecimento nas seguintes tecnologias:</h3>
+  <h3>Tenho conhecimento nas seguintes tecnologias/ferramentas:</h3>
  <div style="display: inline_block">
   <img align="center" alt="Salesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
