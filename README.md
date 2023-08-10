@@ -6,7 +6,7 @@
   
   Após isso, trabalhei na TI da Atlas Eletrodomésticos como jovem aprendiz durante 1 ano e 10 meses, ajudava na parte de infra também. Quando encerrou meu contrato, fui efetivado para estagiário que durante 1 ano e 9 meses, atuei como administrador Salesforce e também desenvolvi soluções personalizadas utilizando [Apex](https://trailhead.salesforce.com/pt-BR/content/learn/projects/quickstart-apex/quickstart-apex-1) e [LWC](https://trailhead.salesforce.com/pt-BR/content/learn/modules/lightning-web-components-basics/discover-lightning-web-components). Em particular, destaco a criação de um componente em LWC que se integrou com o sistema SAP através de um consumidor de API que desenvolvi em Apex, permitindo a busca de números de nota fiscal. Essa solução aumentou significativamente a eficiência da equipe de devolução e simplificou o processo de solicitação de notas de garantia.
   
-  No momento estou procurando oportunidade na área de desenvolvimento de sistemas, se você está procurando por um profissional dedicado, curioso e apaixonado por tecnologia, não hesite em entrar em contato comigo!
+  Tenho um canal no YouTube que fala sobre desenvolvimento e tecnologia, acesse no link: [channel Arthur Lunkes](https://www.youtube.com/channel/UCSa-bGJvrax2T42XVinXLKg)
   
   <br>
   
@@ -22,6 +22,10 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
  </div>
 </div>
 
