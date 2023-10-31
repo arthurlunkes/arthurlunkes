@@ -10,7 +10,10 @@
 
 <div align="center">
   <br>
-  <img align="center" alt="Salesforce" src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png">
+  <div style="display: inline_block">
+    <img align="center" alt="Salesforce-logo" height="250" width="350" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
+    <img align="center" alt="Salesforce-ranger" height="250" width="350" src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png">
+  </div>
   <p>Perfil Salesforce: https://www.salesforce.com/trailblazer/arthurlunkes</p>
 </div>
   
@@ -19,8 +22,6 @@
 <div align="center">
   <h3>Tenho conhecimento nas seguintes tecnologias/ferramentas:</h3>
  <div style="display: inline_block">
-  <img align="center" alt="Salesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
-  <img align="center" alt="Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
