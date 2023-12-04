@@ -11,8 +11,8 @@
 <div align="center">
   <br>
   <div style="display: inline_block">
-    <img align="center" alt="Salesforce-logo" height="250" width="350" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
-    <img align="center" alt="Salesforce-ranger" height="250" width="350" src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png">
+    <img align="center" alt="Salesforce-logo" height="150" width="250" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
+    <img align="center" alt="Salesforce-ranger" height="150" width="215" src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png">
   </div>
   <p>Perfil Salesforce: https://www.salesforce.com/trailblazer/arthurlunkes</p>
 </div>
