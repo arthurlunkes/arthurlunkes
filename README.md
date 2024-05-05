@@ -44,7 +44,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurlunkes&theme=algolia&hide_border=true"/>
 </div>
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact&theme=algolia&exclude_repo=Projeto_Fullstack_Cadastro_Pessoas&hide=jupyter%20notebook&hide_border=true">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlunkes&langs_count=20&layout=compact&theme=algolia&exclude_repo=Projeto_Fullstack_Cadastro_Pessoas&hide=jupyter%20notebook&hide_border=true">
 </div>
 
 ##
