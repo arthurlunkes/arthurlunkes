@@ -20,7 +20,7 @@
 ##
 
 <div align="center">
-  <h3>Tenho conhecimento nas seguintes tecnologias/ferramentas:</h3>
+  <h3>Tecnologias/ferramentas que já utilizei ou que utilizo:</h3>
  <div style="display: inline_block">
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
