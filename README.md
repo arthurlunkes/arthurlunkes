@@ -1,13 +1,3 @@
-<div align="center"><h1>Olá, me chamo Arthur Lunkes</h1></div>
-
-  <br>
-  
-  Desde os meus 15 anos eu trabalho com TI. Trabalhei na TI do Grupo Vibra(Também conhecido pelos frangos NAT.) como jovem aprendiz durante 1 ano e 7 meses, fazia um pouco de tudo: formatação de computadores e celulares coorporativos, solucionava alguns problemas com impressora, entre outras coisas relacionadas com infra.
-  
-  Após isso, trabalhei na TI da Atlas Eletrodomésticos como jovem aprendiz durante 1 ano e 10 meses, ajudava na parte de infra também. Quando encerrou meu contrato, fui efetivado para estagiário que durante 1 ano e 9 meses, atuei como administrador Salesforce e também desenvolvi soluções personalizadas utilizando [Apex](https://trailhead.salesforce.com/pt-BR/content/learn/projects/quickstart-apex/quickstart-apex-1) e [LWC](https://trailhead.salesforce.com/pt-BR/content/learn/modules/lightning-web-components-basics/discover-lightning-web-components). Em particular, destaco a criação de um componente em LWC que se integrou com o sistema SAP através de um consumidor de API que desenvolvi em Apex, permitindo a busca de números de nota fiscal. Essa solução aumentou significativamente a eficiência da equipe de devolução e simplificou o processo de solicitação de notas de garantia.
-
-  Tenho um canal no YouTube que fala sobre desenvolvimento e tecnologia, acesse no link: [channel Arthur Lunkes](https://www.youtube.com/channel/UCSa-bGJvrax2T42XVinXLKg)
-
 <div align="center">
   <br>
   <div style="display: inline_block">
