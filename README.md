@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/user-attachments/assets/d19b835f-7985-41ca-8da9-d56116ecaea3" width="30%"  alt="Jake the Dog">
-  <p style="margin-left: 5%; text-align: justify; font-size: 16px">Hello everyone, I'm Arthur Lunkes. I currently work at SINNC, as a fullstack developer using: postgres, flutter, nodejs, vuejs, graphql. I believe in God. I'm enthusiastic about technology, I don't like monotony, that's why I'm in this area. I always seek to learn.</p>
+  <p style="text-align: justify; font-size: 16px">Hello everyone, I'm Arthur Lunkes. I currently work at SINNC, as a fullstack developer using: postgres, flutter, nodejs, vuejs, graphql. I believe in God. I'm enthusiastic about technology, I don't like monotony, that's why I'm in this area. I always seek to learn.</p>
 </div>
 
 <div align="center">
