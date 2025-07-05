@@ -1,4 +1,8 @@
-# Hello!! I' am Arthur Lunkes, the technology enthusiast. 😁
+# Hello!! I' am Arthur Lunkes, the technology enthusiast.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d19b835f-7985-41ca-8da9-d56116ecaea3">
+</div>
 
 <div align="center">
   <h3>Social</h3>
