@@ -27,7 +27,13 @@
 ## Linguagens e tecnologias
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,nestjs,graphql,java,spring,python,fastapi,postgres,mysql,sqlite,docker,nginx,git,github,linux,flutter,dart,cpp,datadog,zabbix,grafana" alt="Tech stack" />
+	<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,nestjs,graphql,java,spring,python,fastapi,postgres,mysql,sqlite,docker,nginx,git,github,linux,flutter,dart,cpp" alt="Tech stack" />
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+	<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+	<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 ## Áreas que eu mexo
@@ -56,10 +62,20 @@
 
 ## Vamos conectar
 
-- LinkedIn: [linkedin.com/in/arthurlunkes](https://www.linkedin.com/in/arthurlunkes)
-- YouTube: [@arthurlunkes](https://www.youtube.com/@arthurlunkes)
-- GitHub: [github.com/arthurlunkes](https://github.com/arthurlunkes)
-- Email: [arthur.lunkes2017@gmail.com](mailto:arthur.lunkes2017@gmail.com)
+<p align="center">
+	<a href="https://www.linkedin.com/in/arthurlunkes">
+		<img src="https://img.shields.io/badge/LinkedIn-Arthur%20Lunkes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://www.youtube.com/@arthurlunkes">
+		<img src="https://img.shields.io/badge/YouTube-@arthurlunkes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+	</a>
+	<a href="https://github.com/arthurlunkes">
+		<img src="https://img.shields.io/badge/GitHub-arthurlunkes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+	</a>
+	<a href="mailto:arthur.lunkes2017@gmail.com">
+		<img src="https://img.shields.io/badge/Email-arthur.lunkes2017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	</a>
+</p>
 
 ---
 
