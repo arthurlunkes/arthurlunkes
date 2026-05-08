@@ -55,8 +55,8 @@
 ## GitHub Stats
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurlunkes&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top languages" />
+	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurlunkes&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&theme=nightowl" alt="GitHub stats" />
+	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800&exclude_repo=arthurlunkes/Desafios_Selenium,BotEntraNoInstagram&theme=nightowl" alt="Top languages" />
 </p>
 
 ## Vamos conectar
