@@ -27,13 +27,12 @@
 ## Linguagens e tecnologias
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,nestjs,graphql,java,spring,python,fastapi,postgres,mysql,sqlite,docker,nginx,git,github,linux,flutter,dart,cpp" alt="Tech stack" />
+	<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,nestjs,graphql,java,spring,python,fastapi,postgres,mysql,sqlite,docker,nginx,git,github,linux,flutter,dart,cpp,grafana" alt="Tech stack" />
 </p>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
 	<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-	<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 ## Áreas que eu mexo
