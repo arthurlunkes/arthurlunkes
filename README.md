@@ -56,7 +56,7 @@
 
 <p align="center">
 	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurlunkes&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&theme=nightowl" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact&langs_count=8&hide_border=true&cache_seconds=200&exclude_lang=jupyter%20notebook&exclude_repo=WorkingWithImagesInColabWithCV2,Tipos_de_Graficos_Roteiro,Tratando_Dados_Pesquisa_De_Campo,BotEntraNoInstagram,Desafios_Selenium,AtividadeMineracaodeDados,ping-pong-game,projeto_dvd_display,Aulas-IoT-2023,prova02-api-rest,Trabalho_WEB_API,ControleAeroportuario,Traduzir_Palavras_E_PDFs,EscolaDjangoAPI,Projeto_Fullstack_Cadastro_Pessoas,Projetos-gerais-com-Python,PrimeiraAutomacaoPython&theme=nightowl" alt="Top languages" />
+	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurlunkes&layout=compact&langs_count=8&hide_border=true&cache_seconds=1&hide=python,jupyter%20notebook&exclude_repo=WorkingWithImagesInColabWithCV2,Tipos_de_Graficos_Roteiro,Tratando_Dados_Pesquisa_De_Campo,BotEntraNoInstagram,Desafios_Selenium,AtividadeMineracaodeDados,ping-pong-game,projeto_dvd_display,Aulas-IoT-2023,prova02-api-rest,Trabalho_WEB_API,ControleAeroportuario,Traduzir_Palavras_E_PDFs,EscolaDjangoAPI,Projeto_Fullstack_Cadastro_Pessoas,Projetos-gerais-com-Python,PrimeiraAutomacaoPython&theme=nightowl&v=2" alt="Top languages" />
 </p>
 
 ## Vamos conectar
