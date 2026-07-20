@@ -56,7 +56,7 @@
 
 <p align="center">
 	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurlunkes&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800&theme=nightowl" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurlunkes&show_icons=true&layout=compact&langs_count=8&hide_border=true&cache_seconds=1&hide=python,jupyter%20notebook&theme=nightowl&v=2" alt="Top languages" />
+	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurlunkes&show_icons=true&layout=compact&langs_count=8&hide_border=true&cache_seconds=1&theme=nightowl&v=2" alt="Top languages" />
 </p>
 
 ## Vamos conectar
