@@ -1,10 +1,6 @@
 # Arthur Lunkes
 
 <p align="center">
-	<b>🇧🇷 Português</b> | <a href="./README.en.md">🇺🇸 English</a>
-</p>
-
-<p align="center">
 	Fullstack Developer | Node.js | Vue.js | GraphQL | PostgreSQL | Flutter | DevOps | NGINX
 </p>
 
@@ -20,15 +16,15 @@
 	</a>
 </p>
 
-## Sobre mim
+## About me
 
-- Desenvolvedor Fullstack com foco em backend robusto e frontend moderno.
-- Experiencia com apps web, mobile, IoT/embarcados e automações.
-- Forte interesse em arquitetura de software, performance e clean code.
-- Localizacao: Pato Branco - PR, Brasil.
-- Atuação em projetos academicos, pessoais e colaborativos (como `unimater/cantina-unimater` e também `Router-X/Websites_blocked_Brazil`).
+- Fullstack developer focused on robust backends and modern frontends.
+- Experience with web, mobile, IoT/embedded apps and automation.
+- Strong interest in software architecture, performance and clean code.
+- Location: Pato Branco - PR, Brazil.
+- Work on academic, personal and collaborative projects (such as `unimater/cantina-unimater` and `Router-X/Websites_blocked_Brazil`).
 
-## Linguagens e tecnologias
+## Languages and technologies
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,nestjs,graphql,java,spring,rust,python,fastapi,postgres,mysql,sqlite,docker,nginx,git,github,linux,flutter,dart,cpp,grafana" alt="Tech stack" />
@@ -39,22 +35,22 @@
 	<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
 </p>
 
-## Áreas que eu mexo
+## Areas I work with
 
-- Backend: Node.js, NestJS, Java Spring Boot, APIs REST/GraphQL/WebSocket.
+- Backend: Node.js, NestJS, Java Spring Boot, REST/GraphQL/WebSocket APIs.
 - Frontend: Vue.js, React, TypeScript, Tailwind, SCSS.
-- Banco de dados: PostgreSQL, MySQL, SQLite, H2.
-- DevOps e Infra: Docker, NGINX, GitHub Actions, Linux, Zabbix, Grafana, Datadog.
+- Databases: PostgreSQL, MySQL, SQLite, H2.
+- DevOps and Infra: Docker, NGINX, GitHub Actions, Linux, Zabbix, Grafana, Datadog.
 - Mobile: Flutter, React Native.
-- IoT e automação: ESP32, C++, Python, Selenium.
+- IoT and automation: ESP32, C++, Python, Selenium.
 
-## Projetos em destaque
+## Featured projects
 
-- [portfolio-decision-system](https://github.com/arthurlunkes/portfolio-decision-system): Projeto de TCC com Vue/NestJS/GraphQL/PostgreSQL.
-- [Project_Contas_A_Receber](https://github.com/arthurlunkes/Project_Contas_A_Receber): Fullstack com Java Spring Boot, React e PostgreSQL.
-- [ecommerce-backend](https://github.com/arthurlunkes/ecommerce-backend): Backend ecommerce com NestJS.
-- [learning-NGINX](https://github.com/arthurlunkes/learning-NGINX): Estudos práticos de NGINX com Docker.
-- [my_finances](https://github.com/arthurlunkes/my_finances): Aplicacao mobile em Dart/Flutter.
+- [portfolio-decision-system](https://github.com/arthurlunkes/portfolio-decision-system): Capstone project (TCC) with Vue/NestJS/GraphQL/PostgreSQL.
+- [Project_Contas_A_Receber](https://github.com/arthurlunkes/Project_Contas_A_Receber): Fullstack with Java Spring Boot, React e PostgreSQL.
+- [ecommerce-backend](https://github.com/arthurlunkes/ecommerce-backend): Ecommerce backend with NestJS.
+- [learning-NGINX](https://github.com/arthurlunkes/learning-NGINX): Hands-on NGINX studies with Docker.
+- [my_finances](https://github.com/arthurlunkes/my_finances): Mobile app in Dart/Flutter.
 
 ## GitHub Stats
 
@@ -63,7 +59,7 @@
 	<img height="170" src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages" />
 </p>
 
-## Vamos conectar
+## Let's connect
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/arthurlunkes">
@@ -82,4 +78,4 @@
 
 ---
 
-Sempre aberto para colaborar em projetos de software, automação, IoT e produtos digitais.
+Always open to collaborating on software, automation, IoT and digital products.
