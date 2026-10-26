@@ -59,8 +59,11 @@
 ## GitHub Stats
 
 <p align="center">
-	<img height="170" src="./profile-summary-card-output/nord_dark/3-stats.svg" alt="GitHub stats" />
-	<img height="170" src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages" />
+	<img height="270" src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Each card usage" />
+</p>
+<p align="center">
+	<img height="270" src="./profile-summary-card-output/2077/3-stats.svg" alt="GitHub stats" />
+	<img height="270" src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top languages" />
 </p>
 
 ## Vamos conectar
